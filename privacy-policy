@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>增幅态势 隐私政策</title>
+<style>
+  body { font-family: -apple-system, "Microsoft YaHei", sans-serif; max-width: 760px; margin: 0 auto; padding: 24px; line-height: 1.8; color: #333; }
+  h1 { text-align: center; font-size: 22px; }
+  h2 { font-size: 18px; border-bottom: 1px solid #ddd; padding-bottom: 6px; margin-top: 28px; }
+  .meta { text-align: center; color: #888; font-size: 13px; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 6px; }
+  strong { color: #111; }
+</style>
+</head>
+<body>
+<h1>「增幅态势」隐私政策</h1>
+<p class="meta">开发者：一枚硬币工作室<br>生效日期：2026年8月28日</p>
+
+<h2>一、引言</h2>
+<p>《增幅态势》（以下简称"本游戏"）由一枚硬币工作室（以下简称"我们"）开发并运营。我们非常重视您的个人信息和隐私保护。本隐私政策旨在说明本游戏如何收集、使用、存储和共享您的个人信息，以及您享有的相关权利。</p>
+<p>请您在使用本游戏前仔细阅读并充分理解本政策。您开始使用本游戏，即表示您已同意本政策的内容。如您不同意，请停止使用本游戏。</p>
+
+<h2>二、我们收集哪些信息</h2>
+<p>本游戏接入 TapTap 开放平台（登录与实名认证/防沉迷服务）及 Unity Ads（激励视频广告服务），可能收集以下信息：</p>
+<ul>
+  <li><strong>设备信息</strong>：设备型号、操作系统版本、屏幕分辨率、设备标识符（包括广告标识符 IDFA/OAID）等，用于广告投放与问题排查。</li>
+  <li><strong>登录信息</strong>：您通过 TapTap 账号登录时，我们可能获取您的 TapTap 用户 ID 与昵称，用于登录与账号服务。</li>
+  <li><strong>实名认证信息</strong>：根据国家相关法律法规及游戏防沉迷要求，TapTap 会收集您的实名身份信息以完成实名认证与未成年防沉迷限制。</li>
+  <li><strong>运行日志</strong>：游戏运行过程中产生的错误日志、崩溃信息，用于改进产品稳定性。</li>
+</ul>
+
+<h2>三、我们如何使用这些信息</h2>
+<ul>
+  <li><strong>实名认证与防沉迷</strong>：完成实名验证，识别未成年人并执行防沉迷时长限制。</li>
+  <li><strong>广告服务</strong>：通过 Unity Ads 向您展示激励视频广告，并按您的选择提供广告奖励。广告 SDK 可能出于投放与统计目的处理设备标识符。</li>
+  <li><strong>账号登录</strong>：提供 TapTap 登录功能，同步游戏进度。</li>
+  <li><strong>服务改进</strong>：分析运行数据以修复问题、优化体验。</li>
+</ul>
+
+<h2>四、第三方 SDK 与信息共享</h2>
+<p>本游戏集成了以下第三方 SDK，它们可能各自处理您的部分信息，其数据处理行为受其隐私政策约束：</p>
+<ul>
+  <li><strong>TapTap SDK（登录/实名/防沉迷）</strong>：由易玩（上海）网络科技有限公司运营。用于登录认证、实名认证、防沉迷限制。请参阅 TapTap 隐私政策。</li>
+  <li><strong>Unity Ads（广告服务）</strong>：由 Unity Technologies 运营。用于展示激励视频广告。请参阅 Unity 隐私政策。</li>
+</ul>
+<p>除上述为提供游戏服务所必需的共享外，我们不会向任何第三方出售或非法共享您的个人信息。</p>
+
+<h2>五、信息的存储</h2>
+<p>您的个人信息将存储于中国大陆境内的服务器。我们将在实现本政策所述目的所需的期限内保留您的信息，法律法规另有规定的除外。</p>
+
+<h2>六、您的权利</h2>
+<ul>
+  <li>您可以在首次启动时选择<b>同意或拒绝</b>接收广告及登录服务，拒绝不影响游戏核心功能。</li>
+  <li>您可以随时在游戏设置中<b>撤回隐私同意</b>，或退出 TapTap 登录。</li>
+  <li>您有权查询、更正、删除您的个人信息，或注销相关账号。</li>
+  <li>未成年人应由其监护人陪同阅读本政策，并在监护人同意后使用本游戏。</li>
+</ul>
+
+<h2>七、未成年人保护</h2>
+<p>本游戏适合 8 岁及以上用户。我们将严格执行国家未成年人保护相关规定，通过 TapTap 实名认证与防沉迷系统对未成年人游戏时长、时段进行限制。我们建议监护人对未成年人的游戏行为进行合理引导。</p>
+
+<h2>八、政策变更</h2>
+<p>我们可能适时修订本政策。重大变更时，我们将在游戏内显著位置提示或另行通知。请您定期查阅最新版本。</p>
+
+<h2>九、联系我们</h2>
+<p>如您对本政策或个人信息处理有任何疑问、意见或投诉，请通过以下方式联系我们：</p>
+<p>开发者邮箱：<strong>2200299205@qq.com</strong></p>
+
+<p style="margin-top:36px; text-align:center; color:#999; font-size:12px;">© 2026 一枚硬币工作室 · 保留所有权利</p>
+</body>
+</html>
